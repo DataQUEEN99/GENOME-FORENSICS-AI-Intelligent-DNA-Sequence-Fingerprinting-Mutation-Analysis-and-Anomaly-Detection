@@ -1,0 +1,2 @@
+# GENOME-FORENSICS-AI-Intelligent-DNA-Sequence-Fingerprinting-Mutation-Analysis-and-Anomaly-Detection
+GENOME FORENSICS AI is a bioinformatics project that analyzes DNA sequences to identify sequence similarities, mutation patterns, and unusual genomic characteristics. It combines sequence fingerprinting, pairwise alignment, network analysis, and machine learning-based anomaly detection to explore genomic relationships 
